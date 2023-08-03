@@ -1,0 +1,140 @@
+--------- cipher letter Frequency ----------
+a  0.753904 %
+b  2.75 %
+c  6.03 %
+d  4.85 %
+e  7.86 %
+f  5.55 %
+g  2.53 %
+h  7.32 %
+i  2.58 %
+j  0.11 %
+k  2.26 %
+l  7.49 %
+m  5.87 %
+n  1.62 %
+o  2.32 %
+p  1.29 %
+q  0.05 %
+r  0.43 %
+s  7.32 %
+t  2.58 %
+u  12.60 %
+v  9.59 %
+w  0.05 %
+x  0.43 %
+y  4.63 %
+z  1.13 %
+--------- plain letter Frequency ----------
+a  8.05 %
+b  1.67 %
+c  2.23 %
+d  5.10 %
+e  12.22 %
+f  2.14 %
+g  2.30 %
+h  6.62 %
+i  6.28 %
+j  0.19 %
+k  0.95 %
+l  4.08 %
+m  2.33 %
+n  6.95 %
+o  7.63 %
+p  1.66 %
+q  0.06 %
+r  5.29 %
+s  6.02 %
+t  9.67 %
+u  2.92 %
+v  0.82 %
+w  2.60 %
+x  0.11 %
+y  2.04 %
+z  0.06 %
+--------- frequency compare ----------
+u ->  e
+v ->  t
+e ->  a
+l ->  o
+h ->  n
+s ->  h
+c ->  i
+m ->  s
+f ->  r
+d ->  d
+y ->  l
+b ->  u
+t ->  w
+i ->  m
+g ->  g
+o ->  c
+k ->  f
+n ->  y
+p ->  b
+z ->  p
+a ->  k
+x ->  v
+r ->  j
+j ->  x
+w ->  z
+q ->  q
+mapped - a -> v
+mapped - b -> u
+mapped - c -> s
+mapped - d -> h
+mapped - e -> a
+mapped - f -> l
+mapped - g -> m
+mapped - h -> n
+mapped - i -> f
+mapped - j -> q
+mapped - k -> p
+mapped - l -> o
+mapped - m -> r
+mapped - n -> w
+mapped - o -> g
+mapped - p -> y
+mapped - q -> z
+mapped - r -> x
+mapped - s -> i
+mapped - t -> c
+mapped - u -> e
+mapped - v -> t
+mapped - w -> j
+mapped - x -> k
+mapped - y -> d
+mapped - z -> b
+--------- Decoding ----------
+there was a wall ahead it began high in the air and extended
+upward out of sight it was riddled with holes that were the mouths of
+tunnels gaal's taxi moved toward one, then plunged into it for a moment gaal
+wondered idly how his driver could pick out one among so many there was now
+only blackness with nothing but the past-flashing of a colored signal light to
+relieve the gloom the air was full of a rushing sound gaal leaned forward
+against deceleration then and the taxi popped out of the tunnel and
+descended to ground-level once more the luxor hotel said the driver
+unnecessarily he helped gaal with his baggage accepted a tenth-credit tip
+with a businesslike air picked up a waiting passenger and was rising again
+in all this from the moment of debarkation there had been no glimpse of sky
+trantor at the beginning of the thirteenth millennium this tendency
+reached its climax as the center of the imperial government for unbroken
+hundreds of generations and located as it was toward the central regions
+of the galaxy among the most densely populated and industrially advanced
+worlds of the system, it could scarcely help being the densest and richest
+clot of humanity the race had ever seen its urbanization, progressing
+steadily had finally reached the ultimate. all the land surface of trantor
+square miles in extent was a single city the population at its height was
+well in excess of forty billions this enormous population was devoted almost
+entirely to the administrative necessities of empire and found
+themselves all too few for the complications of the task (it is to be
+remembered that the impossibility of proper administration of the
+galactic empire under the uninspired leadership of the later emperors
+was a considerable factor in the fall) daily fleets of ships in the tens of
+thousands brought the produce of twenty agricultural worlds to the
+dinner tables of trantor its dependence upon the outer worlds for food and
+indeed for all necessities of life made trantor increasingly vulnerable to
+conquest by siege in the last millennium of the empire the monotonously
+numerous revolts made emperor after emperor conscious of this and
+imperial policy became little more than the protection of trantor's
+delicate jugular vein
