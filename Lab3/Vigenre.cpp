@@ -31,7 +31,7 @@ int main()
 {
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
-     vector<string>cipherArray;
+    vector<string>cipherArray;
     string cipher;
     while(getline(cin,cipher))  
     {
@@ -39,11 +39,10 @@ int main()
     }
     // vector<string> s = allPossibleKeys();
     vector<string> plain = decodeVigenereCipher(cipherArray,KEY);
+
     for(int i = 0; i < plain.size(); i++)
     {
         cout<<plain[i]<<endl;
     }
        
 }
-// Cipher - tbuowpik lh ia yupb-qrjzpo, ufpjlr, jyyhvqfdxv-okxpr blhbesgfhcg rwzzzewlj etndkzfk dcl bzjcorlco fixesk itigewtbe vbied hzbrupkg pzyqrldvnvnem
-// plain - Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality
