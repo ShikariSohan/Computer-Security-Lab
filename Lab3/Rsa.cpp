@@ -76,14 +76,14 @@ int findP(int n)
     }
     return 1;
 }
-void print(__int128 x) {
-    if (x < 0) {
-        putchar('-');
-        x = -x;
-    }
-    if (x > 9) print(x / 10);
-    putchar(x % 10 + '0');
-}
+// void print(__int128 x) {
+//     if (x < 0) {
+//         putchar('-');
+//         x = -x;
+//     }
+//     if (x > 9) print(x / 10);
+//     putchar(x % 10 + '0');
+// }
 
 int32_t main()
 {
@@ -97,24 +97,16 @@ int32_t main()
     // int e = findModularInverse(d,phi);
     int d = findModularInverse(e,phi);
 
-    cout<<"Public Key - ";
-    print(e);
-    cout<<" ";
-    print(n);
-    cout<<endl;
-    cout<<"Private Key - ";
-    print(d);
-    cout<<" ";
-    print(n);
-    cout<<endl;
+    cout<<"Public Key - "<<long(e)<<" "<<long(n)<<endl;
+    cout<<"Private Key - "<<long(d)<<" "<<long(n)<<endl;
+
     string m = "hellodarknessmyoldfriend";
     vector<int> encryptedMsg = encrypt(m,e,n);
     string  decryptedMsg = decrypt(encryptedMsg,d,n);
     cout<<"Encrypted Message - ";
     for(int i=0;i<encryptedMsg.size();i++)
     {
-      print(encryptedMsg[i]);
-      cout<<" ";
+        cout<<long(encryptedMsg[i])<<" ";
     }
     cout<<endl;
     cout<<"Decrypted Message - "<<decryptedMsg<<endl;

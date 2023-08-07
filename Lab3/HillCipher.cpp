@@ -5,12 +5,10 @@ int plainSegment = 3;
 string padPlainText(string plainText)
 {
     int padSize = plainText.size()%plainSegment;
-    if(padSize == 0)
-        return plainText;
     padSize = plainSegment - padSize;
-    for(int i = 0; i < padSize; i++)
+    for(int i=0;i<padSize;i++)
     {
-        plainText += 'x';
+        plainText+=((padSize-1)+'a');
     }
     return plainText;
 }
@@ -45,7 +43,7 @@ int main()
 {
     string plainText;
     // cin>>plainText;
-    plainText = "paymoremoney";
+    plainText = "paymoremoneya";
     cout<<"Plain Text - "<<plainText<<endl;
     string cipherText = encodeHillCipher(plainText);
     cout<<"Cipher Text - "<<cipherText<<endl;
